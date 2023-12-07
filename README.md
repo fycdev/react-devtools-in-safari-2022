@@ -52,7 +52,7 @@ In summary, we will build Firefox's version of React DevTools, port that built v
 3. Convert the Firefox React DevTools using `safari-web-extension-converter`
 
     ```
-    xcrun safari-web-extension-converter /path/to/built/extension --macos-only
+    xcrun safari-web-extension-converter /path/to/dest/folder --macos-only
     ```
 
     Optionally, can use the `--project-location` flag to set the destination folder for the converted extension otherwise it will save it to the current directory.
