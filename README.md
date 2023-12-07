@@ -6,10 +6,10 @@ This is a successful experiment in getting React DevTools working in Safari Deve
 This is only a proof of concept but hopefully this may open the doors for tools that were previously accessible on other browsers to be now available on Safari spurring for a more open web experience (and debugging) for developers.
 
 ## Requirements
-- MacOS 12+ (Monterey)
-- Safari 16 (as of this date this would be Safari Technology Preview for your respective MacOS version)
-- XCode 13+
-- Node 14+
+- MacOS 14+ (Sonoma)
+- Safari 17.1.2
+- XCode 15+
+- Node 20+ (the latest LTS version supported by react)
 
 ## Instructions
 
