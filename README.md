@@ -38,6 +38,7 @@ In summary, we will build Firefox's version of React DevTools, port that built v
 
     ```
     cd packages/react-devtools-extensions/
+    yarn add cross-env
     yarn build:firefox
     ```
 
