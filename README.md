@@ -78,7 +78,7 @@ In summary, we will build Firefox's version of React DevTools, port that built v
 6. Open Safari:
 
     a. In the Menu Bar enable:
-    - `Develop -> Allow Unsigned Permissions`
+    - `Develop -> Developer Settings... -> Allow Unsigned Permissions`
     - `Develop -> Experimental Features -> Web Inspector Extensions`
 
     b. Open Preferences and navigate to Extensions. React Developer Tools will be shown in the list given the process worked successfully. Enable it and allow the extension to run on any chosen website or all websites.
