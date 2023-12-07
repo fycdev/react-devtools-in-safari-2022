@@ -75,7 +75,7 @@ In summary, we will build Firefox's version of React DevTools, port that built v
 
 5. Run the project by either pressing the "play" button or from the Menu Bar `Product -> Run` which will install the extension as an application. An app will open and will have a button to "Quit and Open Safari Extensions Preferences...". Ignore it and close the app.
 
-6. Open Safari Technology Preview (since of this writing it is the only version with Safari 17.1.2).
+6. Open Safari:
 
     a. In the Menu Bar enable:
     - `Develop -> Allow Unsigned Permissions`
