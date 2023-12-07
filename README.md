@@ -1,4 +1,4 @@
-# React DevTools In Safari 2022
+# React DevTools In Safari 2023
 
 ## Introduction
 This is a successful experiment in getting React DevTools working in Safari Developer Tools in Safari 16 as of September 2022. Potentially, this process can be used with other extensions that extend the developer tools (e.g. Redux, Vue, etc...).
