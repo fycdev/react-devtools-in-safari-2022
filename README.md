@@ -28,7 +28,7 @@ In summary, we will build Firefox's version of React DevTools, port that built v
     ```
     cd scripts/release
     yarn install
-    yarn add node-fetch@
+    yarn add node-fetch@2
     ./download-experimental-build.js --commit main -r stable
     ```
 
